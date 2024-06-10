@@ -1,5 +1,5 @@
 - 👋 Olá, sou @marceliaalmeida
-- 👀 Me interesso por IA e Computação em Nuvem
+- 👀 Tenho interesse por IA e Computação em Nuvem
 - 🌱 Atualmente estou aprendendo IA na Nuvem
 - 💞️ Procuro colaborar em projetos de Cloud, IA e Machine Learning
 - 📫 Como entrar em contato comigo: marcelia_marcelia@hotmail.com
